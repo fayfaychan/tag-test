@@ -4,4 +4,4 @@ steps:
 
 options:
   pool:
-    name: 'projects/emilyyfchen-test/locations/asia-northeast1/workerPools/cb'
+    name: 'projects/emilyyfchen-test-352618/locations/us-central1/workerPools/pp'
